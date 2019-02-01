@@ -6,7 +6,7 @@ use App\Models\User;
 use GraphQL\Type\Definition\ResolveInfo;
 use Nuwave\Lighthouse\Support\Contracts\GraphQLContext;
 
-class createUser
+class CreateUser
 {
     /**
      * Return a value for the field.
